@@ -1,3 +1,5 @@
 build/
 .svn/
 .DS_Store
+build2/
+.git.old/
