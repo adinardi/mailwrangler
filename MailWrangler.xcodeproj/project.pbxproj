@@ -15,6 +15,7 @@
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D7ACF80DDB3853001CB0EB /* GmailWranglerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* GmailWranglerViewController.m */; };
 		6428489D0E2F53CD007E7E8B /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6428489C0E2F53CD007E7E8B /* icon.png */; };
+		64CBAFC00E8A0C8F004B3CF1 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 64CBAFBF0E8A0C8F004B3CF1 /* Entitlements.plist */; };
 		64EFDD550E2AA5D400D84FB8 /* AccountSelection.xib in Resources */ = {isa = PBXBuildFile; fileRef = 64EFDD540E2AA5D400D84FB8 /* AccountSelection.xib */; };
 		64EFDD590E2AA61A00D84FB8 /* AccountSelectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 64EFDD580E2AA61A00D84FB8 /* AccountSelectionViewController.m */; };
 		64EFDD9C0E2AAA1E00D84FB8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64EFDD9B0E2AAA1E00D84FB8 /* CoreGraphics.framework */; };
@@ -35,6 +36,7 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* GmailWrangler_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GmailWrangler_Prefix.pch; sourceTree = "<group>"; };
 		6428489C0E2F53CD007E7E8B /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		64CBAFBF0E8A0C8F004B3CF1 /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
 		64EFDD540E2AA5D400D84FB8 /* AccountSelection.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = AccountSelection.xib; path = Classes/AccountSelection.xib; sourceTree = "<group>"; };
 		64EFDD570E2AA61A00D84FB8 /* AccountSelectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AccountSelectionViewController.h; sourceTree = "<group>"; };
 		64EFDD580E2AA61A00D84FB8 /* AccountSelectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AccountSelectionViewController.m; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				64CBAFBF0E8A0C8F004B3CF1 /* Entitlements.plist */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -151,7 +154,7 @@
 /* Begin PBXProject section */
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
-			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "GmailWrangler" */;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MailWrangler" */;
 			compatibilityVersion = "Xcode 3.1";
 			hasScannedForEncodings = 1;
 			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
@@ -173,6 +176,7 @@
 				64EFDD550E2AA5D400D84FB8 /* AccountSelection.xib in Resources */,
 				64EFDF480E2AC48300D84FB8 /* AddAccount.xib in Resources */,
 				6428489D0E2F53CD007E7E8B /* icon.png in Resources */,
+				64CBAFC00E8A0C8F004B3CF1 /* Entitlements.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -224,6 +228,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Angelo DINARDI";
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -287,7 +292,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "GmailWrangler" */ = {
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MailWrangler" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C01FCF4F08A954540054247B /* Debug */,
