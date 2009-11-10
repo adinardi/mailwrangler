@@ -1,0 +1,14 @@
+MailWrangler iPhone Application
+Angelo R. DiNardi
+angelo@dinardi.name
+
+This code somewhat works. It has been barely updated to work with the latest
+iPhone development frameworks. It was originally designed and built for the
+first iPhone SDK.
+
+I've decided to release it as open source software (Apache 2.0 License) due to
+interest from other developers.
+
+More info for the curious:
+http://angelo.dinardi.name/2008/09/20/mailwrangler-and-the-apple-app-store/
+http://angelo.dinardi.name/2009/03/09/mailwrangler-inquiries-and-update/
