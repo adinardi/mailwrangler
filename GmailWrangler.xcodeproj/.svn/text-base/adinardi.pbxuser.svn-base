@@ -1,0 +1,515 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* GmailWranglerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 490}}";
+			sepNavSelRange = "{825, 0}";
+			sepNavVisRange = "{0, 834}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GmailWranglerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 546}}";
+			sepNavSelRange = "{646, 0}";
+			sepNavVisRange = "{3, 736}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MailWrangler */ = {
+		activeExec = 0;
+		executables = (
+			64EFDD280E2A8F9F00D84FB8 /* MailWrangler */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GmailWranglerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 490}}";
+			sepNavSelRange = "{563, 0}";
+			sepNavVisRange = "{0, 571}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GmailWranglerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 1456}}";
+			sepNavSelRange = "{585, 40}";
+			sepNavVisRange = "{326, 1434}";
+			sepNavWindowFrame = "{{1463, 4}, {836, 878}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 64EFDD280E2A8F9F00D84FB8 /* MailWrangler */;
+		activeSDKPreference = iphoneos2.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MailWrangler */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MailWrangler */,
+		);
+		breakpoints = (
+			64EFDDBC0E2AB56000D84FB8 /* AccountSelectionViewController.m:98 */,
+			64EFDE270E2AB64300D84FB8 /* AccountSelectionViewController.m:9 */,
+			64EFDF740E2AC60F00D84FB8 /* AccountSelectionViewController.m:41 */,
+			64BA59C70E2ACD4A00F8CAE1 /* AddAccount.m:65 */,
+			64BA5A3F0E2AD8E200F8CAE1 /* AddAccount.m:101 */,
+		);
+		codeSenseManager = 64EFDD300E2A8FA500D84FB8 /* Code sense */;
+		executables = (
+			64EFDD280E2A8F9F00D84FB8 /* MailWrangler */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					989,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					949,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 237980449;
+			PBXWorkspaceStateSaveDate = 237980449;
+		};
+		perUserProjectItems = {
+			642848A20E2F542C007E7E8B /* PBXTextBookmark */ = 642848A20E2F542C007E7E8B /* PBXTextBookmark */;
+			642848A50E2F542C007E7E8B /* PBXTextBookmark */ = 642848A50E2F542C007E7E8B /* PBXTextBookmark */;
+			642848A60E2F542C007E7E8B /* PBXBookmark */ = 642848A60E2F542C007E7E8B /* PBXBookmark */;
+			642848BC0E2F5552007E7E8B /* PBXBookmark */ = 642848BC0E2F5552007E7E8B /* PBXBookmark */;
+			642848BE0E2F5552007E7E8B /* PlistBookmark */ = 642848BE0E2F5552007E7E8B /* PlistBookmark */;
+			642848BF0E2F5552007E7E8B /* PBXBookmark */ = 642848BF0E2F5552007E7E8B /* PBXBookmark */;
+			642848C50E2F55A2007E7E8B /* PlistBookmark */ = 642848C50E2F55A2007E7E8B /* PlistBookmark */;
+			642848D50E2F5786007E7E8B /* PlistBookmark */ = 642848D50E2F5786007E7E8B /* PlistBookmark */;
+			645AC6DC0E2C914700D1D93E /* PBXTextBookmark */ = 645AC6DC0E2C914700D1D93E /* PBXTextBookmark */;
+			645AC7010E2C93C600D1D93E /* PlistBookmark */ = 645AC7010E2C93C600D1D93E /* PlistBookmark */;
+			64BA59E70E2ACE5800F8CAE1 /* PBXTextBookmark */ = 64BA59E70E2ACE5800F8CAE1 /* PBXTextBookmark */;
+			64BA5B040E2B278500F8CAE1 /* PBXTextBookmark */ = 64BA5B040E2B278500F8CAE1 /* PBXTextBookmark */;
+			64BA5B140E2B2D0500F8CAE1 /* PBXTextBookmark */ = 64BA5B140E2B2D0500F8CAE1 /* PBXTextBookmark */;
+			64BA5B500E2B364800F8CAE1 /* PBXTextBookmark */ = 64BA5B500E2B364800F8CAE1 /* PBXTextBookmark */;
+			64C9ACE30E2F304B006B3A20 /* PBXTextBookmark */ = 64C9ACE30E2F304B006B3A20 /* PBXTextBookmark */;
+			64C9ACE40E2F304B006B3A20 /* PBXTextBookmark */ = 64C9ACE40E2F304B006B3A20 /* PBXTextBookmark */;
+			64C9AD030E2F3437006B3A20 /* PBXTextBookmark */ = 64C9AD030E2F3437006B3A20 /* PBXTextBookmark */;
+			64C9AD580E2F3C50006B3A20 /* PBXTextBookmark */ = 64C9AD580E2F3C50006B3A20 /* PBXTextBookmark */;
+			64C9AD8B0E2F41F6006B3A20 /* PBXTextBookmark */ = 64C9AD8B0E2F41F6006B3A20 /* PBXTextBookmark */;
+			64EFDDC50E2AB56400D84FB8 /* PBXTextBookmark */ = 64EFDDC50E2AB56400D84FB8 /* PBXTextBookmark */;
+			64EFDDCD0E2AB56400D84FB8 /* PBXTextBookmark */ = 64EFDDCD0E2AB56400D84FB8 /* PBXTextBookmark */;
+			64EFDDCE0E2AB56400D84FB8 /* PBXTextBookmark */ = 64EFDDCE0E2AB56400D84FB8 /* PBXTextBookmark */;
+			64EFDDDE0E2AB56400D84FB8 /* PBXTextBookmark */ = 64EFDDDE0E2AB56400D84FB8 /* PBXTextBookmark */;
+			64EFDF670E2AC5A300D84FB8 /* PBXTextBookmark */ = 64EFDF670E2AC5A300D84FB8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 64EFDD2F0E2A8FA500D84FB8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	642848A20E2F542C007E7E8B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 64EFDF5A0E2AC52F00D84FB8 /* AddAccount.m */;
+		name = "AddAccount.m: 78";
+		rLen = 0;
+		rLoc = 3249;
+		rType = 0;
+		vrLen = 1323;
+		vrLoc = 2593;
+	};
+	642848A50E2F542C007E7E8B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 64EFDF5A0E2AC52F00D84FB8 /* AddAccount.m */;
+		name = "AddAccount.m: 78";
+		rLen = 0;
+		rLoc = 3249;
+		rType = 0;
+		vrLen = 1323;
+		vrLoc = 2593;
+	};
+	642848A60E2F542C007E7E8B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6428489C0E2F53CD007E7E8B /* icon.png */;
+	};
+	642848BC0E2F5552007E7E8B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6428489C0E2F53CD007E7E8B /* icon.png */;
+	};
+	642848BE0E2F5552007E7E8B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/adinardi/Documents/Code/GmailWrangler/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	642848BF0E2F5552007E7E8B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6428489C0E2F53CD007E7E8B /* icon.png */;
+	};
+	642848C50E2F55A2007E7E8B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/adinardi/Documents/Code/GmailWrangler/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	642848D50E2F5786007E7E8B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/adinardi/Documents/Code/GmailWrangler/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	645AC6DC0E2C914700D1D93E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GmailWranglerAppDelegate.m */;
+		name = "GmailWranglerAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 646;
+		rType = 0;
+		vrLen = 736;
+		vrLoc = 3;
+	};
+	645AC7010E2C93C600D1D93E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/adinardi/Documents/Code/GmailWrangler/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	64BA59C70E2ACD4A00F8CAE1 /* AddAccount.m:65 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 64EFDF5A0E2AC52F00D84FB8 /* AddAccount.m */;
+		functionName = "-loadView";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 65;
+		location = GmailWrangler;
+		modificationTime = 237983343.377288;
+		state = 2;
+	};
+	64BA59E70E2ACE5800F8CAE1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GmailWranglerViewController.m */;
+		name = "GmailWranglerViewController.m: 27";
+		rLen = 0;
+		rLoc = 626;
+		rType = 0;
+		vrLen = 1469;
+		vrLoc = 306;
+	};
+	64BA5A3F0E2AD8E200F8CAE1 /* AddAccount.m:101 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 64EFDF5A0E2AC52F00D84FB8 /* AddAccount.m */;
+		functionName = "-viewWillDisappear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 101;
+		location = GmailWrangler;
+		modificationTime = 237983343.377295;
+		state = 2;
+	};
+	64BA5B040E2B278500F8CAE1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 64EFDD580E2AA61A00D84FB8 /* AccountSelectionViewController.m */;
+		name = "AccountSelectionViewController.m: 48";
+		rLen = 0;
+		rLoc = 1355;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 1126;
+	};
+	64BA5B140E2B2D0500F8CAE1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GmailWranglerAppDelegate.h */;
+		name = "GmailWranglerAppDelegate.h: 24";
+		rLen = 0;
+		rLoc = 825;
+		rType = 0;
+		vrLen = 834;
+		vrLoc = 0;
+	};
+	64BA5B500E2B364800F8CAE1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 64EFDF5A0E2AC52F00D84FB8 /* AddAccount.m */;
+		name = "AddAccount.m: 80";
+		rLen = 0;
+		rLoc = 4905;
+		rType = 0;
+		vrLen = 1215;
+		vrLoc = 2051;
+	};
+	64C9ACE30E2F304B006B3A20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GmailWranglerViewController.h */;
+		name = "GmailWranglerViewController.h: 22";
+		rLen = 0;
+		rLoc = 563;
+		rType = 0;
+		vrLen = 571;
+		vrLoc = 0;
+	};
+	64C9ACE40E2F304B006B3A20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GmailWranglerViewController.m */;
+		name = "GmailWranglerViewController.m: 28";
+		rLen = 40;
+		rLoc = 585;
+		rType = 0;
+		vrLen = 1434;
+		vrLoc = 326;
+	};
+	64C9AD030E2F3437006B3A20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 64EFDD570E2AA61A00D84FB8 /* AccountSelectionViewController.h */;
+		name = "AccountSelectionViewController.h: 9";
+		rLen = 0;
+		rLoc = 356;
+		rType = 0;
+		vrLen = 422;
+		vrLoc = 0;
+	};
+	64C9AD580E2F3C50006B3A20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 64EFDF590E2AC52F00D84FB8 /* AddAccount.h */;
+		name = "AddAccount.h: 14";
+		rLen = 0;
+		rLoc = 385;
+		rType = 0;
+		vrLen = 517;
+		vrLoc = 0;
+	};
+	64C9AD8B0E2F41F6006B3A20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 64EFDD580E2AA61A00D84FB8 /* AccountSelectionViewController.m */;
+		name = "AccountSelectionViewController.m: 56";
+		rLen = 0;
+		rLoc = 1645;
+		rType = 0;
+		vrLen = 701;
+		vrLoc = 1123;
+	};
+	64EFDD280E2A8F9F00D84FB8 /* MailWrangler */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MailWrangler;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	64EFDD2F0E2A8FA500D84FB8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	64EFDD300E2A8FA500D84FB8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	64EFDD570E2AA61A00D84FB8 /* AccountSelectionViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 490}}";
+			sepNavSelRange = "{356, 0}";
+			sepNavVisRange = "{0, 422}";
+		};
+	};
+	64EFDD580E2AA61A00D84FB8 /* AccountSelectionViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 2056}}";
+			sepNavSelRange = "{1645, 0}";
+			sepNavVisRange = "{1148, 863}";
+			sepNavWindowFrame = "{{449, -1}, {836, 878}}";
+		};
+	};
+	64EFDDBC0E2AB56000D84FB8 /* AccountSelectionViewController.m:98 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 64EFDD580E2AA61A00D84FB8 /* AccountSelectionViewController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 98;
+		location = GmailWrangler;
+		modificationTime = 237983343.377247;
+		state = 2;
+	};
+	64EFDDC50E2AB56400D84FB8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GmailWranglerViewController.h */;
+		name = "GmailWranglerViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 258;
+		vrLoc = 0;
+	};
+	64EFDDCD0E2AB56400D84FB8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GmailWranglerAppDelegate.m */;
+		name = "GmailWranglerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 629;
+		vrLoc = 0;
+	};
+	64EFDDCE0E2AB56400D84FB8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GmailWranglerAppDelegate.h */;
+		name = "GmailWranglerAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 0;
+	};
+	64EFDDDE0E2AB56400D84FB8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 64EFDD570E2AA61A00D84FB8 /* AccountSelectionViewController.h */;
+		name = "AccountSelectionViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 166;
+		vrLoc = 0;
+	};
+	64EFDE270E2AB64300D84FB8 /* AccountSelectionViewController.m:9 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 64EFDD580E2AA61A00D84FB8 /* AccountSelectionViewController.m */;
+		functionName = "-awakeFromNib";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 9;
+		location = GmailWrangler;
+		modificationTime = 237983343.377269;
+		state = 2;
+	};
+	64EFDF590E2AC52F00D84FB8 /* AddAccount.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 490}}";
+			sepNavSelRange = "{385, 0}";
+			sepNavVisRange = "{0, 517}";
+		};
+	};
+	64EFDF5A0E2AC52F00D84FB8 /* AddAccount.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 2002}}";
+			sepNavSelRange = "{3249, 0}";
+			sepNavVisRange = "{2593, 1323}";
+			sepNavWindowFrame = "{{1400, 0}, {836, 878}}";
+		};
+	};
+	64EFDF670E2AC5A300D84FB8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 64EFDF590E2AC52F00D84FB8 /* AddAccount.h */;
+		name = "AddAccount.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 102;
+		vrLoc = 0;
+	};
+	64EFDF740E2AC60F00D84FB8 /* AccountSelectionViewController.m:41 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 64EFDD580E2AA61A00D84FB8 /* AccountSelectionViewController.m */;
+		functionName = "-addAccount";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 41;
+		location = GmailWrangler;
+		modificationTime = 237983343.377277;
+		state = 2;
+	};
+}
